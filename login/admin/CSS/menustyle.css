@@ -1,0 +1,93 @@
+.menucontainer
+{
+    margin:32px 28px;
+}
+.additem
+{
+    margin: 27px 0px;
+    border: solid 2px black;
+    width: 104px;
+    background-color:darkslategray;
+    border-radius: 7px;
+    height: 30px;
+    align-items: center;
+    display: flex;
+    color:white;
+}
+.additem:hover{
+    color:rgb(219, 19, 19);
+}
+.table-body
+{
+    width:100%;
+    border-collapse: collapse;
+    border-color: black;
+    border-width: medium;
+}
+.form-control
+{
+    width: 50%;
+    height: 89%;
+    border-radius: 6px;
+    font-weight: bolder;
+    cursor:pointer;
+}
+.row
+{
+    width: 100%;
+    height: 40px;
+    margin-top: -12px;
+    
+    display: flex;
+    align-items: center;
+}
+
+.colmd
+{
+    margin-top: 17px;
+    height: 37px;
+}
+.btn-dark
+{
+height: 100%;
+    width: 104px;
+    border-radius: 8px;
+    font-weight: bolder;
+    cursor:pointer;
+    background-color:darkslategrey;
+    font-size:16px;
+    color:white
+}
+button:hover
+{
+    transform: scale(1.08);
+}
+select:hover{
+    transform: scale(1.02);  
+}
+.additem:hover
+{
+    transform: scale(1.02);
+}
+tr:hover
+{
+    border-color:slategray;
+    background-color:slategray;
+    transform:scale(1.00);
+}
+tbody{
+    background-color:white;
+}
+.btnitem:hover
+{
+    transform: scale(1.02);
+    color:black;
+}
+.btnitem
+{
+    color:white;
+}
+.icon
+{
+    color:red;
+}

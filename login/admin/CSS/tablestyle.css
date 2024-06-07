@@ -1,0 +1,17 @@
+.tablecontainer
+{
+    margin-top: 32px;
+    margin-left:28px;
+}
+.add_table
+{
+    margin: 9px 0px;
+    border: solid 2px black;
+    width: 87px;
+}
+table{
+    width:100%;
+}
+a:hover{
+    color:black;
+}
